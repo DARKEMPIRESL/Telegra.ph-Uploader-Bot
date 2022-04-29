@@ -1,0 +1,48 @@
+{
+    "name": "Telegra.ph Uploader Bot",
+    "description": "A bot that can upload medias to Telegra.ph",
+    "logo": "https://telegra.ph/file/a5edc35a44a17df066ad1.jpg",
+    "keywords": [
+        "Telegra.ph",
+        "Uploader",
+        "Telegram Bot",
+        "Benchamxd"
+    ],
+    "website": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
+    "repository": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
+    "success_url": "https://telegram.dog/SLBotOfficial",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": ""
+        },
+      "BOT_OWNER": {
+            "description": "Bot owner ID",
+            "value": "1120271521"
+        },
+      "DATABASE_URL": {
+            "description": "MongoDB URL",
+            "value": ""
+        },
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
