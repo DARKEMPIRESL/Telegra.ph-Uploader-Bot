@@ -8,8 +8,8 @@
         "Telegram Bot",
         "Benchamxd"
     ],
-    "website": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
-    "repository": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
+    "website": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader-Bot",
+    "repository": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader-Bot",
     "success_url": "https://telegram.dog/SLBotOfficial",
     "env": {
         "TG_BOT_TOKEN": {
