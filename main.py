@@ -35,7 +35,7 @@ I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
 
-Made by @SL_BOTS_TM"""
+Made by @ImDark_Empire"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -50,7 +50,7 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @SL_BOTS_TM"""
+Made by @ImDark_Empire"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
@@ -236,7 +236,7 @@ async def telegraph_upload(bot, update):
         return
     
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @SL_BOTS_TM",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @ImDark_Empire",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
