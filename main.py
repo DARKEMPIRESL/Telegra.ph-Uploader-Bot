@@ -56,9 +56,9 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://t.me/ImDark_Empire)
+👨‍💻 **Developer :** [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/ImDark_Empire)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/SLBotOfficial)
+📢 **Channel :** [Team SL Bots🇱🇰](https://telegram.me/SLBotOfficial)
 
 🌐 **Source :** [👉 Click here](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader-Bot)
 
