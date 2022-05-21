@@ -37,7 +37,7 @@
     "buildpacks": [
         {
             "url": "heroku/python"
-        }
+        },
     ],
     "formation": {
         "worker": {
