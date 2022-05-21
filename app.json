@@ -31,13 +31,13 @@
       "DATABASE_URL": {
             "description": "MongoDB URL",
             "value": ""
-        },
+        }
     },
     "addons": [],
     "buildpacks": [
         {
             "url": "heroku/python"
-        },
+        }
     ],
     "formation": {
         "worker": {
