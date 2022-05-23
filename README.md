@@ -1,3 +1,6 @@
+## This Repo is no longer maintained
+   Move to New version of [Telegraph-Uploader-Bot](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader)
+
 # Telegraph Uploader Bot 
 An advanced telegram media to telegraph uploader bot
 
@@ -31,7 +34,7 @@ Now send /start to you bot to see if it is running!
 
 ---
 
-## Old Version
+## New Version
 
 - [Telegraph-Uploader-Bot](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader)
 
